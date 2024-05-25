@@ -1,0 +1,9 @@
+@media (max-width: 768px){
+    .header{
+        & .mailtext{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+    }
+}
